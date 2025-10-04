@@ -1,0 +1,15 @@
+# IDE / 환경 설정
+.idea/
+.vscode/
+.DS_Store
+
+# Python 환경
+__pycache__/
+*.pyc
+.venv/
+
+# Test artifacts
+*.log
+*.html
+*.png
+finmate_error_*

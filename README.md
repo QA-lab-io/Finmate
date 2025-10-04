@@ -12,8 +12,8 @@
 
 | 작성자 | 테스트 코드 | 기술 블로그 |
 |:--------:|:-------------|:-------------|
-| 박예은 | [`yeeun/login.py`](./yeeun/Test.py) | [📝 Velog 바로가기](https://velog.io/@yeni023/Python-Selenium%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9E%90%EB%8F%99%ED%99%94) |
-| 제예인 | [`yein/login.py`](./yein/test.py) | [📝 Velog 바로가기](https://velog.io/@dpdls0228/Selenium%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-Python) |
+| 박예은 | [`yeeun/login.py`](./yeeun/login.py) | [📝 Velog 바로가기](https://velog.io/@yeni023/Python-Selenium%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9E%90%EB%8F%99%ED%99%94) |
+| 제예인 | [`yein/login.py`](./yein/login.py) | [📝 Velog 바로가기](https://velog.io/@dpdls0228/Selenium%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-Python) |
 
 ---
 

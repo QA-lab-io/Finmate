@@ -1,0 +1,16 @@
+2025-10-04 15:00:46,293 [INFO] ====== WebDriver manager ======
+2025-10-04 15:00:46,453 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-04 15:00:46,589 [INFO] Get LATEST chromedriver version for google-chrome
+2025-10-04 15:00:46,693 [INFO] Driver [/Users/yein/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-10-04 15:00:48,386 [INFO] 사이트 접속: https://finmate.site/
+2025-10-04 15:00:48,954 [INFO] 로그인 버튼 클릭 성공!
+2025-10-04 15:00:50,117 [INFO] 로그인 시도 완료!
+2025-10-04 15:01:38,042 [INFO] 사이트 접속: https://finmate.site/
+2025-10-04 15:01:38,593 [INFO] 로그인 버튼 클릭 성공!
+2025-10-04 15:01:39,266 [INFO] 로그인 시도 완료!
+2025-10-04 15:42:42,647 [INFO] 사이트 접속: https://finmate.site/
+2025-10-04 15:42:43,225 [INFO] 로그인 버튼 클릭 성공!
+2025-10-04 15:42:44,374 [INFO] 로그인 시도 완료!
+2025-10-04 16:02:28,469 [INFO] 사이트 접속: https://finmate.site/
+2025-10-04 16:02:29,100 [INFO] 로그인 버튼 클릭 성공!
+2025-10-04 16:02:29,755 [INFO] 로그인 시도 완료!

@@ -21,6 +21,26 @@
 
 ```
 Finmate/
+┣ tests/                   # 실제 테스트 실행 코드 (시나리오 단위)
+┃ ┣ web/
+┃ ┃ ┣ test_login.py        # 로그인 테스트
+┃ ┃ ┗ test_heartbeat.py    # 서버 헬스체크
+┃ ┗ api/
+┃   ┗ test_user_api.py     # REST API 테스트 (선택)
+┣ pages/                   # Page Object (UI 행동 정의)
+┃ ┣ login_page.py          # 로그인 페이지 요소/행동
+┃ ┗ dashboard_page.py      # 대시보드 페이지 요소/행동
+┣ common/                  # 공용 모듈
+┃ ┣ report.py              # Markdown 리포트 저장
+┃ ┣ logger_config.py       # 로깅 설정
+┃ ┗ driver_setup.py        # WebDriver 생성 및 옵션 관리
+┣ artifacts/               # 스크린샷, HTML, MD 결과 저장 폴더
+┣ logs/                    # 실행 로그 폴더
+┣ .venv/                   # 가상환경
+┣ .gitignore
+┣ README.md
+┣ requirements.txt
+┗ main.py                  # 테스트 통합 실행 진입점
 
 ```
 
